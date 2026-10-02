@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="AI Agent × Agent Harness x Backend Engineering — AI applications & agent platforms" width="100%" />
+  <img src="assets/banner.png" alt="AI Agent × Agent Harness x Backend Engineering — AI applications & Agent platforms" width="100%" />
 </div>
 
 <div align="center">
