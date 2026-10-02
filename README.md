@@ -22,10 +22,10 @@
 ---
 
 ### 🧭 About Me
-
+- 985 计算机实验班 本科  Top 50  计算机 硕士
 - **Developer focused on AI applications & Agent Harness & Agent platforms** 
-- I believe in verifiable contributions: [bytedance/deer-flow#6156](https://github.com/bytedance/deer-flow/issues/6156) · [PR #6182](https://github.com/bytedance/deer-flow/pull/6182)
 
-### 📮 Contact
 
-`2323639837@qq.com` — resume & project details on request
+
+
+
